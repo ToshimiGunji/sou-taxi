@@ -10,4 +10,9 @@
 [Ss]cripts
 pyvenv.cfg
 .venv
+venv/
+.idea/
+.json
 pip-selfcheck.json
+token.pickle
+
