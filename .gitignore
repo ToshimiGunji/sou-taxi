@@ -12,7 +12,6 @@ pyvenv.cfg
 .venv
 venv/
 .idea/
-.json
-pip-selfcheck.json
+*.json
 token.pickle
 
